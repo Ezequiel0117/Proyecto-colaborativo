@@ -5,6 +5,10 @@ def despedida():
     print("Adios, Ezequiel!")
     
     
+    
+def expresion():
+    print("Prueba, Erick!")    
+    
 # git checkout -b rama-integrante2
 # xYugi — ayer a las 0:23
 # fatal: not a git repository (or any of the parent directories): .git
